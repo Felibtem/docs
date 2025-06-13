@@ -35,7 +35,7 @@ For more information about forks, see [AUTOTITLE](/pull-requests/collaborating-w
 {% data reusables.repositories.navigate-to-repo %}
 1. Above the file list, click **Use this template**.
 {% ifversion fpt or ghec %}
-1. Select **Create a new repository**.
+1. Select **Create a new repository**.https://github.com/github/docs.git checkout-b-update Felicity
 
    ![Screenshot of the "Use this template" button and the dropdown menu expanded to show the "Open in a codespace" option.](/assets/images/help/repository/use-this-template-button.png)
 
@@ -48,4 +48,4 @@ For more information about forks, see [AUTOTITLE](/pull-requests/collaborating-w
 {% data reusables.repositories.choose-repo-visibility %}
 1. Optionally, to include the directory structure and files from all branches in the template, and not just the default branch, select **Include all branches**.
 {% data reusables.repositories.select-marketplace-apps %}
-1. Click **Create repository from template**.
+1. Click **Create repository from template**.git update game Felicity
